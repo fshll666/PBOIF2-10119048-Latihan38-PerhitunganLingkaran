@@ -9,6 +9,10 @@ import java.util.Scanner;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Menampilkan Program Perhitungan Lingkaran.
  */
 public class PBOIF210119048Latihan38PerhitunganLingkaran {
 

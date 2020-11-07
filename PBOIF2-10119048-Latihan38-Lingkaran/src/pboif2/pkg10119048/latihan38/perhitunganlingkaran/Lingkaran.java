@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan38.perhitunganlingkaran;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Class Lingkaran.
  */
 public class Lingkaran {
     private int diameter;
@@ -41,5 +45,7 @@ public class Lingkaran {
         System.out.println("Jari Jari Lingkaran = " + hitungJariJari() + " cm");
         System.out.println("Luas Lingkaran = " + hitungLuas() + " cm");
         System.out.println("Keliling Lingkaran = " + hitungKeliling() + " cm");
+        System.out.println("==========================================");
+        System.out.println("Developed by : Mochammad Faishal");
     }
 }
